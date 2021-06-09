@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import 'stencil-starter-webb';
 
 @Component({
   selector: 'app-root',
